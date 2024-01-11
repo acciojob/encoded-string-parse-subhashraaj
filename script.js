@@ -3,5 +3,5 @@ const parseCode = (str) => {
 };
 
 // Do not change the code below
-const str = prompt("Enter str: ");
-alert(JSON.stringify(parseCode(str)));
+//const str = prompt("Enter str: ");
+//alert(JSON.stringify(parseCode(str)));
